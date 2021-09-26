@@ -4,11 +4,13 @@
 To help Steve quickly pull ticker volume and return information from several different stocks, automating the fetching of the data, while also increasing the efficiency of the runtime for the subroutine.
 
 # Results
-![2017 results]()
-![2018 results]()
+![2017 results](https://github.com/dwest85/stock-analysis/blob/main/markdownpics/2017results.JPG)
+![2018 results](https://github.com/dwest85/stock-analysis/blob/main/markdownpics/2018results.JPG)
+
 Based on the results between the 2017 and 2018 stocks, the data compiled shows that the selected stocks performed much better in 2017 than in 2018. This subroutine macro can be used on stocks from other datasets to help cross-analyze the volume and returns.
 
-![loopingticker]()
+![loopingticker](https://github.com/dwest85/stock-analysis/blob/main/markdownpics/loopingticker.JPG)
+
 An example of the code used to loop through all rows, comparing the tickerIndex to the cell value. This helps create the necessary values for tickerStartingPrices and tickerEndingPrices.
 
 # Summary
